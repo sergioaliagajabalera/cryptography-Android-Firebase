@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860816281075",
+    "project_id": "aliagam09uf1-edc20",
+    "storage_bucket": "aliagam09uf1-edc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860816281075:android:f7bb37e843c14072145686",
+        "android_client_info": {
+          "package_name": "edu.fje.aliagam09uf1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860816281075-kld8pkaegpth19o84nmfl0lhvap0nrmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9b6JHO4-B4ela7R7SMbogZwv-4JarmFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860816281075-kld8pkaegpth19o84nmfl0lhvap0nrmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
